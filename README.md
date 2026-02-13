@@ -29,5 +29,5 @@ Follow these instructions to get the project up and running on your local machin
 
 Feel free to explore the codebase, experiment with styled components, and customize the project according to your needs.
 
-
+⭐Please Star this repo if you find it useful :)
 
